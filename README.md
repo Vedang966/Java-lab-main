@@ -160,6 +160,5 @@ To add and push new lab folders or experiments to this repository:
 
 ## 👨‍💻 Author
 
-- **Name:** Shubham Nagpal
-- **Email:** shubham27806@gmail.com
-- **Repository:** [github.com/shubhamnagpal24354/java-lab](https://github.com/shubhamnagpal24354/java-lab)
+- **Name:** Vedang Agarwal
+- **Email:** vedangagarwal82@gmail.com
